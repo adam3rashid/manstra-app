@@ -47,7 +47,7 @@ Open `.env` and fill in your [Google Generative AI API key](https://aistudio.goo
 npm run dev
 ```
 
-Open [http://localhost:4111](http://localhost:4111) in your browser to access **Mastra Studio** — an interactive UI for testing agents, browsing traces, and triggering workflows.
+Open [http://localhost:4111](http://localhost:4111) in your browser to access **Mastra Studio** — an interactive UI for testing agents, browsing traces, and also triggering workflows.
 
 ## Project Structure
 
